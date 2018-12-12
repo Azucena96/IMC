@@ -1,5 +1,6 @@
 
-# Created by https://www.gitignore.io/api/java,windows,android,intellij
+# Created by https://www.gitignore.io/api/java,android,windows,intellij
+# Edit at https://www.gitignore.io/?templates=java,android,windows,intellij
 
 ### Android ###
 # Built application files
@@ -48,8 +49,9 @@ captures/
 .idea/caches
 
 # Keystore files
-# Uncomment the following line if you do not want to check your keystore files in.
+# Uncomment the following lines if you do not want to check your keystore files in.
 #*.jks
+#*.keystore
 
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
@@ -198,5 +200,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-
-# End of https://www.gitignore.io/api/java,windows,android,intellij
+# End of https://www.gitignore.io/api/java,android,windows,intellij
